@@ -1,7 +1,7 @@
 # posh
 A bunch of PowerShell cmdlets I find useful in my day-to-day activities
 
-## Certificates
+## Certificates.ps1
 
 ### Find-Certificate
 Find a certificate in the local certificate store
